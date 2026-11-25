@@ -1,9 +1,15 @@
 # Logs
 *.log
 
-# InfoBook / syllabus source files
+# Course specifications & syllabus source files
 InfoBook.md
 InfoBook*.md
+course_master_context_specification.md
+course master context specification.md
+course masters context specification.md
+*course*master*context*
+*course*maters*context*
+
 
 # OS generated files
 Thumbs.db
